@@ -13,6 +13,7 @@ auto restart php artisan command if crashed!
 برای راه‌اندازی کافیه که فایل رو دانلود کنید و اون رو در روت پروژه لاراولی خودتون قرار بدید.
 بعد از اون، کافیه تا دسترسی لازم رو به کد مربوطه بدید.
 و دیگه بعد از این نیازی نیست که با php artisan سرویس لاراولتون رو اجرا کنید.
+
 English:
 
 With this script, you no longer need to worry about running php artisan.
